@@ -8,7 +8,7 @@ const TodoInput = (props) => {
         onChange={(e) => {
           setTodoValue(e.target.value);
         }}
-        placeholder="What needs to be done"
+        placeholder="What needs to be done ?💀"
       />
       <button
         onClick={() => {
